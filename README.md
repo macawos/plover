@@ -1,2 +1,2 @@
 # plover
-A user-friendly, developer-friendly package manager.
+Decentralized management for open-source games 
